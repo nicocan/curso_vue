@@ -26,4 +26,7 @@ const heroes = [
     },
 ];
 
-const owners = ['DC','Marvel'];
+export const owners = ['DC','Marvel'];
+console.log('Heroes.js')
+
+export default heroes
